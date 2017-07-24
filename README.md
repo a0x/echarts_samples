@@ -32,7 +32,7 @@ Here's the [Echarts Official Site](http://echarts.baidu.com/index.html), you can
 
 ### II. Web basis
 
-It is no doubt that you have to understand some basis of web programming, otherwise you will not master ECharts at all.
+There is no doubt that you have to understand some basis of web programming, otherwise you will not master ECharts at all.
 
 * [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [HTML5 Tutorial from W3Schools](https://www.w3schools.com/html/)
