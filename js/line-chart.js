@@ -1,8 +1,8 @@
-// 基于准备好的dom，初始化echarts实例
+// Initialize echart object, based on the prepared DOM.
 var myChart = echarts.init(document.getElementById('main'));
 // var myChart = echarts.init($('#main').get(0));
 
-// 指定图表的配置项和数据
+// Costumize the options and data of the chart.
 var option = {
     title: {
         text: 'ECharts 入门示例'
@@ -22,5 +22,5 @@ var option = {
     }]
 };
 
-// 使用刚指定的配置项和数据显示图表。
+// Render the chart on page, using the former data and options.
 myChart.setOption(option);
